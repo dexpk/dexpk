@@ -1,3 +1,5 @@
+<img src="https://picsum.photos/1200/300?random" alt="Dynamic Cat Banner" style="width: 1200px; height: 300px; object-fit: cover;" />
+
 <h2 align="left">Hi there 👋</h2>
 
 <img align="right" height="220" src="https://c.tenor.com/I8Qr-Q_JPGMAAAAC/work-laburo.gif" alt="Working Gif"/>
