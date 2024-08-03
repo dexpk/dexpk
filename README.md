@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi there 👋</h2>
 
-<img align="right" height="220" src="https://c.tenor.com/I8Qr-Q_JPGMAAAAC/work-laburo.gif" alt="Working Gif"/>
+<img align="right" height="220" style="border-radius: 50%; border: 5px solid #fff; object-fit: cover;" src="https://c.tenor.com/I8Qr-Q_JPGMAAAAC/work-laburo.gif" alt="Working Gif" />
 
 <p align="left">
     I'm <strong>@dexpk</strong>.<br>
