@@ -23,6 +23,10 @@ I’m @dexpk
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dexpk&theme=github-dark-dimmed&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dexy/)
