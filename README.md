@@ -1,4 +1,4 @@
-<img src="https://picsum.photos/1200/300?random" alt="Dynamic Cat Banner" style="width: 1200px; height: 300px; object-fit: cover;" />
+<img src="https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif" alt="Tech Dark Banner" style="width: 1200px; height: 300px; object-fit: cover;" />
 
 <h2 align="left">Hi there 👋</h2>
 
