@@ -16,23 +16,35 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+    <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /></a>
+    <a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
+    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+    <a href="https://docs.aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+    <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+    <a href="https://docs.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+    <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+    <a href="https://vuejs.org/v2/guide/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /></a>
+    <a href="https://graphql.org/learn/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+    <a href="https://angular.io/docs"><img src="https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white" alt="AngularJS" /></a>
+    <a href="https://reactnative.dev/docs/getting-started"><img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" /></a>
+    <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></a>
+    <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /></a>
+    <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API"><img src="https://img.shields.io/badge/-API_Development-0052CC?style=flat-square&logo=api&logoColor=white" alt="API Development" /></a>
+    <a href="https://azure.microsoft.com/en-us/overview/cloud-computing/"><img src="https://img.shields.io/badge/-Cloud_Computing-FF6F00?style=flat-square&logo=cloud&logoColor=white" alt="Cloud Computing" /></a>
 </p>
 
 ---
 
-### 📈 Stats
+### 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=dexpk&theme=github-dark-dimmed&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </a>
+    <a href="https://github.com/dexpk"><img src="https://streak-stats.demolab.com?user=dexpk&theme=github-dark-dimmed&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://github.com/dexpk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexpk&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" /></a>
 </p>
 
 ---
