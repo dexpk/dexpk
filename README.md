@@ -13,6 +13,11 @@
     - 📫 How to reach me: <a href="mailto:vermapiyush679@gmail.com">vermapiyush679@gmail.com</a>
 </p>
 
+<!-- Profile visit count badge
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dexpk&color=brightgreen" alt="Profile Visits" />
+</p>  -->
+
 ---
 
 ### 🛠️ Technologies & Tools
