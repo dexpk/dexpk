@@ -13,7 +13,7 @@
     - 📫 How to reach me: <a href="mailto:vermapiyush679@gmail.com">vermapiyush679@gmail.com</a>
 </p>
 
-<!-- Profile visit count badge
+<!-- Profile visit count badge 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dexpk&color=brightgreen" alt="Profile Visits" />
 </p>  -->
@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/dexpk"><img src="https://streak-stats.demolab.com?user=dexpk&theme=github-dark-dimmed&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://github.com/dexpk"><img src="https://streak-stats.demolab.com?user=dexpk&theme=radical&hide&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
     <a href="https://github.com/dexpk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexpk&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" /></a>
 </p>
 
